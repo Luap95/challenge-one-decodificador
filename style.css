@@ -76,6 +76,9 @@ body {
     order: 0;
     flex-grow: 0;
 }
+#criptografa:hover {
+    background: #315075;
+}
 #descriptografa {
 
     box-sizing: border-box;
@@ -98,6 +101,9 @@ body {
     flex: none;
     order: 1;
     flex-grow: 0;
+}
+#descriptografa:hover {
+    background: #abafb6;
 }
 #digitetexto {
     
@@ -195,4 +201,7 @@ body {
     margin-top: 30%;
     margin-left: 10%;
 
+}
+#resultado button:hover {
+    background: #e0dbdb;
 } 
